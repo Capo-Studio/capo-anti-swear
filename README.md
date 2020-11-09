@@ -6,6 +6,10 @@ A package for discord anti-swear support a lot of languages.
 
     npm install capo-anti-swear
 
+## YT Video
+
+[Link](https://youtu.be/I0F2vtgzVvU)
+
 ## Usage
 ```
 const AntiSwear = require("capo-anti-swear"),
@@ -37,7 +41,7 @@ Filter constructor.
 
 **Parameters**
 
-- 
+
 -    `list` **[array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)** Instantiate filter with custom list
     
 
